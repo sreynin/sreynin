@@ -1,4 +1,4 @@
-# 💫🇰🇷  안녕하세요, 제 이름은 쓰레이닌 이라고함니다 🇰🇷 » បូរ ស្រីនីន 🇰🇭
+# 💫🇰🇷  안녕하세요, 제 이름은 쓰레이닌 이라고합니다 🇰🇷 » បូរ ស្រីនីន 🇰🇭
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 Hello I'm  who am Me.In my free time, I build software project and research new technology, and more I improve my experience with sharing to start up people.
 <a href=#><img src="q.svg"></a>
