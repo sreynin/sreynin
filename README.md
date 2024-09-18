@@ -1,6 +1,6 @@
 # 💫🇰🇷  안녕하세요, 제 이름은 보 쓰레이닌입니다 🇰🇷 » បូរ ស្រីនីន 🇰🇭
-<h3 align="left">💻 A ios developer from Kosign company 🇰🇭.</h3><br>
-<h3 align="left">💻 Used to worked at 비플페이 company in South Korean 2years ago 🇰🇷.</h3><br>
+<h3 align="left">💻 A ios developer from Kosign company 🇰🇭.</h3>
+<h3 align="left">💻 Used to worked at 비플페이 company in South Korean 2years ago 🇰🇷.</h3>
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 Hello I'm  who am Me.In my free time, I build software project and research new technology, and more I improve my experience with sharing to start up people.
 <a href=#><img src="q.svg"></a>
